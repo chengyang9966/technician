@@ -1,0 +1,50 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "fixed software bug for test 4",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2021-04-02T13:35:28.008Z"
+    },
+    {
+      "message": "testing Logs ",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-04-02T13:44:33.857Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Cheng Yang ",
+      "lastName": "Ong",
+      "id": 3
+    },
+    {
+      "firstName": "MIcheal ",
+      "lastName": "Jordon",
+      "id": 4
+    },
+    {
+      "firstName": "twerwr",
+      "lastName": "qwqew",
+      "id": 5
+    },
+    {
+      "firstName": "Micheal",
+      "lastName": "Jordon",
+      "id": 6
+    }
+  ]
+}
